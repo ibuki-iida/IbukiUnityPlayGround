@@ -1,0 +1,2 @@
+# IbukiUnityPlayGround
+Unity5の教科書を読みながらUnityについて勉強するレポジトリ
